@@ -70,3 +70,4 @@ console.log(safeReports);
 /* 526 is too low */
 /* 531 is too high */
 /* 529 is not correct */
+/* 528 is correct */
